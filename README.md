@@ -32,6 +32,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdiKakad1502&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiKakad1502&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiKakad1502&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=aura)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiKakad1502&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
